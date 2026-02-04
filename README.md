@@ -18,7 +18,10 @@ Apresentar uma barbearia de forma profissional, destacando serviços, estilo vis
 - Tailwind CSS
 - JavaScript
 
+## 🎥 Demonstração
+> O projeto está disponível online para visualização.
 
+🔗 **Deploy:** https://barber-landing-tau.vercel.app/
 
 ## 📌 Aprendizados
 - Criação de interfaces institucionais
